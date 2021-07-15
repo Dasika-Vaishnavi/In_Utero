@@ -1,2 +1,2 @@
 # In_Utero
-Symbl.ai, "Integrate to disrupt" Hackathon, 
+Symbl.ai, "Integrate to disrupt" Hackathon 
